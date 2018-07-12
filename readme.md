@@ -1,4 +1,4 @@
-=== WooCommerce Zapier Integration ddddddddddd ===
+=== WooCommerce Zapier Integration ---- ===
 
 Contributors: jamescollins, OM4
 Donate link: https://om4.com.au/wordpress-plugins/#donate
