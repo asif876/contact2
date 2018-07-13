@@ -2,7 +2,7 @@
 /*
 * Plugin Name: WooCommerce Salesforce CRM Perks
 * Description: Integrates WooCommerce with Salesforce allowing new orders to be automatically sent to your Salesforce account.
-* Version: 1.7
+* Version: 1.9
 * Requires at least: 3.8
 * Tested up to: 4.9
 * Author: CRM Perks.
